@@ -1,0 +1,8 @@
+body {
+  color: brown;
+  border: 1px solid brown;
+  max-width: 500px;
+  margin: 30px auto;
+  text-align: center;
+  padding: 20px;
+}
